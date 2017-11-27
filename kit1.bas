@@ -4,3 +4,5 @@ rem
 
 input "Enter your name : ";name$
 print "Hello " + name$
+
+end

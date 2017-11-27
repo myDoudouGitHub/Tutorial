@@ -4,3 +4,5 @@ rem
 
 input "Enter your age : ";age%
 print "You are " + age% + " year old"
+
+end
