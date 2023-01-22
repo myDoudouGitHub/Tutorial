@@ -2,7 +2,6 @@
 # Kit3.txt
 #
 # update : 20-jan-2018 (3.1)
-# update : March 2020
 #
 
 
